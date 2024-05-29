@@ -1,7 +1,7 @@
 ###
-##
-##  Sort integer arguments (ascending) 
-##
+#
+#   Sort integer arguments (ascending) 
+#
 ####
 
 result = []
